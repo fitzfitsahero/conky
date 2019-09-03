@@ -15,6 +15,9 @@ Adi Zaimi
 Alex <godexsoft at bk dot ru>
   Iconv patch
 
+Alexey Bondarenko <alexey.bond.94.55@gmail.com>
+  $scroll fix
+
 affinity <affy at users dot sourceforge dot net>
   X-Mozilla-Status support
 
@@ -109,6 +112,8 @@ flitsch <flitsch at users dot sourceforge dot net>
 
 fow <facadedewalls at yahoo dot com>
   mpd_title max length
+
+Google LLC
 
 Gwenhael LE MOINE <cycojesus at yahoo dot fr>
   Manual setting of the position
@@ -240,6 +245,9 @@ nathanj439 <nathanj439 at users dot sourceforge dot net>
 Nikos Ntarmos <ntarmos at users dot sourceforge dot net>
   FreeBSD total memory patch
 
+Nikos Pylarinos <n dot pylarinos at hotmail dot com>
+  macOS support
+
 norsetto <norsetto at ubuntu dot com>
   fix SIGUSR1/SIGHUP segfault
 
@@ -305,6 +313,9 @@ Szymon Boniecki
 
 Thomas Cort
   CPU frequency patch for alpha
+
+Toke Høiland-Jørgensen <toke at toke dot dk>
+  systemd journal support
 
 Toni <bleach at users dot sourceforge dot net>
   exec*/tail/head output evalution
